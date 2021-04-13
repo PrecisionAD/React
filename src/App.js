@@ -72,7 +72,7 @@ export default function App(props) {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6" component="div" noWrap >
-              SWE 432 React examples
+              SWE 432 React examples - AD
           </Typography>
           <Box sx={{ flexGrow: 1 }} />
           <IconButton
